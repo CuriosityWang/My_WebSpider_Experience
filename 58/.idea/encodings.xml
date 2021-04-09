@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/city_list.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/first_page/七台河.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/first_page/合肥.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/first_page/滁州.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/first_page/芜湖.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/first_page/阜阳.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/first_page/马鞍山.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/first_page/黄山.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/last_page/0.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/last_page/1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/last_page/2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resources/city_url.csv" charset="GBK" />
+  </component>
+</project>
